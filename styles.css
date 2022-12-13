@@ -1,0 +1,97 @@
+.green {
+    color:rgb(201, 143, 27);
+    background: rgb(217, 169, 190);
+    
+}
+#big {
+    font-size: 100px;
+}
+#home {
+    width: 100%;
+    height: auto;
+    font-family: 'Oswald', sans-serif;
+    background-image:url(media/IMG_7512.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#bedroom{
+    width: 100%;
+    height: auto;
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(106, 73, 73);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: azure;
+}
+#wavepostition {
+    background-color: rgb(116, 116, 151);
+    position: absolute;
+    top: 100%;
+    left: 100%;
+    
+}
+#house{
+    width: 100%;
+    height: auto;
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(41, 83, 122);
+    background-image:url(media/lightning.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+#center {
+    margin: auto;
+    width: 70%;
+}
+#page2{
+    background-image: url();
+    text-align: center;
+}
+#page3{
+    background-color: rgb(3, 2, 7);
+    width: 100%;
+    height: auto;
+
+    
+}
+#vid{
+    width: 400%;
+    height: auto;
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(50, 163, 67);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 1% 0 0 20%;
+
+
+}
+.room-ctn {
+    width: 40%;
+    height: auto;
+    padding: 0 0 0 20%;
+}
+.room {
+    width: 100%;
+    height: auto;
+}
+.apartment-ctn {
+    width: 36%;
+    height: auto;
+    padding: 6% 0 0 38%;
+   
+}
+.apartment {
+    width: 100%;
+    height: auto;
+    
+}
+.home-ctn {
+    width: 57%;
+    height: auto;
+    padding: 12% 0 0 76%;
+}
+.home {
+    width: 100%;
+    height: auto;
+}
